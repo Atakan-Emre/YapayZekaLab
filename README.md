@@ -59,14 +59,14 @@ Her hafta için ayrı klasörlerde bulunan uygulamaları çalıştırmak için:
 ### Jupyter Notebook Dosyaları
 
 ```bash
-cd Hafta2
+cd Hafta-1
 jupyter notebook Uygulama1.ipynb
 ```
 
 ### Python Script Dosyaları
 
 ```bash
-cd Hafta1/Uygulama1
+cd Hafta-1/Uygulama1
 python main.py
 ```
 
