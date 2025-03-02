@@ -14,10 +14,10 @@ Bu repository, YMT410 Yapay Zekâ ve Uzman Sistemler Laboratuvarı dersi kapsam�
 
 ```
 YapayZekaLab/
-├── Hafta1/
-│   ├── Uygulama1/
+├── Hafta-1/
+│   ├── Uygulama1.ipynb/
 │   └── ...
-├── Hafta2/
+├── Hafta-2/
 │   ├── Uygulama1.ipynb
 │   └── ...
 └── README.md
